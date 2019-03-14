@@ -11,3 +11,5 @@ I intentionally not included any standard dict
 so that learners/students will be engaged in 
 playing this game doing some manual
 researches for those words
+
+To compile/run, just use PureBasic IDE, that's very fast and simple for simple programs like these.
