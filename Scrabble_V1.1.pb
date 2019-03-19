@@ -1021,4 +1021,4 @@ EndDataSection
 ; IDE Options = PureBasic 5.00 (Windows - x64)
 ; EnableUnicode
 ; EnableXP
-; Executable = ..\Scrabble.exe
+; Executable = Mini_Scrabble_V_1.2.exe
