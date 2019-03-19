@@ -1014,8 +1014,6 @@ DataSection
   IncludeBinary "Background.bmp"
   Image_3:
   IncludeBinary "Rules.bmp"
-  Icon_1:
-  IncludeBinary "game.ico"
   
 EndDataSection
 
@@ -1023,4 +1021,4 @@ EndDataSection
 ; IDE Options = PureBasic 5.00 (Windows - x64)
 ; EnableUnicode
 ; EnableXP
-; Executable = Scrabble.exe
+; Executable = ..\Scrabble.exe
