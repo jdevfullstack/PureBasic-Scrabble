@@ -1021,10 +1021,6 @@ EndDataSection
 
 
 ; IDE Options = PureBasic 5.00 (Windows - x64)
-; CursorPosition = 7
-; FirstLine = 1002
-; Folding = -
 ; EnableUnicode
 ; EnableXP
-; UseIcon = game.ico
 ; Executable = Scrabble.exe
