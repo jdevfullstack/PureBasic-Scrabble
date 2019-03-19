@@ -1,4 +1,4 @@
-﻿;declaration of an array
+;declaration of an array
 ;starting from zero index
 ;again we do not do this by For loop
 ;so just to feel the burden haha
@@ -1017,8 +1017,3 @@ DataSection
   
 EndDataSection
 
-
-; IDE Options = PureBasic 5.00 (Windows - x64)
-; EnableUnicode
-; EnableXP
-; Executable = Mini_Scrabble_V_1.2.exe
