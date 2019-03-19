@@ -1016,4 +1016,3 @@ DataSection
   IncludeBinary "Rules.bmp"
   
 EndDataSection
-
