@@ -1005,8 +1005,8 @@ If OpenWindow(#WIN_MAIN, 0, 0, 700, 700, "Mini-Scrabble Version 1.1", Flags)
   Until Event = #PB_Event_CloseWindow 
 EndIf
 
-;the data sections includes the three images, the last one
-;being the game icon
+;the data sections includes the three images
+
 DataSection
   Image_1:
   IncludeBinary "front.bmp"
