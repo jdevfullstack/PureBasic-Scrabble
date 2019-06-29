@@ -5,7 +5,7 @@ This is a scrabble game written in PureBasic.
 
 When playing, better play this 
 with a dictionary,
-I intentionally not included any standard dictionary
+I intentionally did not include any standard dictionary
 so that learners/students will be engaged in 
 playing this game, doing some manual
 researches for those words.
