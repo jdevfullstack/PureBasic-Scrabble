@@ -1009,10 +1009,10 @@ EndIf
 
 DataSection
   Image_1:
-  IncludeBinary "front.bmp"
+  IncludeBinary "resources\front.bmp"
   Image_2:
-  IncludeBinary "Background.bmp"
+  IncludeBinary "resources\background.bmp"
   Image_3:
-  IncludeBinary "Rules.bmp"
+  IncludeBinary "resources\rules.bmp"
   
 EndDataSection
