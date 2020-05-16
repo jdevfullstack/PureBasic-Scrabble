@@ -1011,8 +1011,8 @@ DataSection
   Image_1:
   IncludeBinary "resources\front.bmp"
   Image_2:
-  IncludeBinary "resources\Background.bmp"
+  IncludeBinary "resources\background.bmp"
   Image_3:
-  IncludeBinary "resources\Rules.bmp"
+  IncludeBinary "resources\rules.bmp"
   
 EndDataSection
