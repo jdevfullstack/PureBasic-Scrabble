@@ -1,7 +1,7 @@
 # PureBasic Mini-Scrabble
 This is a scrabble game written in PureBasic.
 
-![GUI](sampleGUI.png)
+![GUI](resources/screenshot1.png)
 
 When playing, better play this 
 with a dictionary,
